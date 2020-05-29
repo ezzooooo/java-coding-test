@@ -2,7 +2,7 @@ package stack;
 
 import java.util.Stack;
 
-public class kakao1 {
+public class Crain {
 	public static int solution(int[][] board, int[] moves) {
         int answer = 0;
         int cur = 0;
